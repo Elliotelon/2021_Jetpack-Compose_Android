@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ComposeBasic"
 include ':app'
+include ':randomuserlist'
